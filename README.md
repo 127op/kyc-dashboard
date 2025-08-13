@@ -72,6 +72,6 @@ postcss.config.mjs
 next.config.mjs
 tsconfig.json
 package.json
-```
 
-Good luck with your assignment!
+
+
